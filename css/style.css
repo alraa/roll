@@ -65,6 +65,7 @@ header{
 
 	.content-img{
 		display:block;
+		max-width:100%;
 	}
 	
 	.content-img.pull-right{
