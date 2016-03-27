@@ -1,0 +1,32 @@
+@font-face {
+	font-family: 'GothamProReg';
+	src: url('fonts/GothaProReg.eot');
+	src: url('fonts/GothaProReg.eot?#iefix') format('embedded-opentype'),
+			 url('fonts/GothaProReg.woff') format('woff'),
+			 url('fonts/GothaProReg.ttf') format('truetype'),
+			 url('fonts/GothaProReg.svg#GothamProReg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamProMed';
+	src: url('fonts/GothaProMed.eot');
+	src: url('fonts/GothaProMed.eot?#iefix') format('embedded-opentype'),
+			 url('fonts/GothaProMed.woff') format('woff'),
+			 url('fonts/GothaProMed.ttf') format('truetype'),
+			 url('fonts/GothaProMed.svg#GothamProMed') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'GothamProBol';
+	src: url('fonts/GothaProBol.eot');
+	src: url('fonts/GothaProBol.eot?#iefix') format('embedded-opentype'),
+			 url('fonts/GothaProBol.woff') format('woff'),
+			 url('fonts/GothaProBol.ttf') format('truetype'),
+			 url('fonts/GothaProBol.svg#GothamProBol') format('svg');
+	font-weight: bold;
+	font-style: normal;
+}
