@@ -1,5 +1,8 @@
 $(document).ready(function(){
+<<<<<<< HEAD
 	
+=======
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
   if (window.devicePixelRatio > 1) {
     var lowresImages = $('img.content-img');
 
@@ -9,6 +12,7 @@ $(document).ready(function(){
       $(this).attr('src', highres);
     });
   }
+<<<<<<< HEAD
 	
 	
 	if($('#login-form')[0]){
@@ -123,3 +127,6 @@ if($('#list_coll')[0]){
 	})(jQuery)
 }
 //--
+=======
+});
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be

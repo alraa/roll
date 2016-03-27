@@ -33,6 +33,7 @@
 .features_text h3{
 	font-size:26px;
 }
+<<<<<<< HEAD
 
 .exchange-info .row-fluid .span7{
 	float:none !important;
@@ -60,6 +61,8 @@
 .descrip-wrap{
 	left:0px;
 }
+=======
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 	
 }
 /* /1170 */
@@ -266,6 +269,10 @@ h3{
 }
 
 footer,
+<<<<<<< HEAD
+=======
+footer a,
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 footer address{
 	font-size:16px;
 	line-height:26px;
@@ -273,7 +280,11 @@ footer address{
 }
 
 .wrapper{
+<<<<<<< HEAD
 	margin-bottom:-266px;
+=======
+	margin-bottom:0px;
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 }
 
 footer{
@@ -281,7 +292,11 @@ footer{
 }
 
 .push{
+<<<<<<< HEAD
 	height:266px;
+=======
+	display:none;
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 }
 
 footer .row-fluid .span3{
@@ -293,10 +308,13 @@ footer .row-fluid .span3{
 	footer .row-fluid .span3 br{
 		display:none;
 	}
+<<<<<<< HEAD
 	
 	footer .row-fluid .span3 .navbar-link br{
 		display:block;
 	}
+=======
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 
 .page-header{
 	padding-top:40px;
@@ -365,6 +383,7 @@ footer .row-fluid .span3{
 .introduce-img{
 	margin-bottom:-22px;
 }
+<<<<<<< HEAD
 
 .faq-section{
 	padding:60px 0;
@@ -409,6 +428,8 @@ footer .row-fluid .span3{
 .content-img.pull-right {
 	right:0px;
 }
+=======
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 	
 }
 /* /800 */
@@ -529,6 +550,7 @@ h3{
 	margin-bottom:0px;
 }
 
+<<<<<<< HEAD
 .input-medium{
 	width:300px;
 	max-width:300px;
@@ -608,6 +630,8 @@ body{
 }
 
 
+=======
+>>>>>>> b825b488e5a5a9302f7efedde719dd5ccab223be
 }
 /* /460 */
 
